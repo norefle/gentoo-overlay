@@ -2,5 +2,8 @@
 # Copyright 1999-2014 Gentoo Foundation; Distributed under the GPL v2
 # $Header$
 
+  24 Feb 2015; Dim L. Feiron <norefle@outlook.com> love-0.9.2.ebuild:
+  Bump version
+
   14 Apr 2014; Dim L. Feiron <norefle@outlook.com> love-0.9.1.ebuild:
   Bump version
