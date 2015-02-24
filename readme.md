@@ -9,6 +9,5 @@ Installation:
 
 ## List of packages:
 
-  * ekopath 5.0.0_pre20131115 (required for octave)
   * löve (love2d) 0.9.1 0.9.2
   * sqlcipher *9999 (git)
