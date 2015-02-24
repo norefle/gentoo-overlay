@@ -6,7 +6,7 @@ EAPI=3
 
 inherit base games
 
-SRC_URI="mirror://bitbucket/rude/${PN}/downloads/${P}-linux-src.tar.gz"
+SRC_URI="https://bitbucket.org/rude/love/downloads/${P}-linux-src.tar.gz"
 KEYWORDS="~amd64 ~x86"
 DESCRIPTION="A framework for 2D games in Lua"
 HOMEPAGE="http://love2d.org/"
