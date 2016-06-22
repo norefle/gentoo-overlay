@@ -9,5 +9,5 @@ Installation:
 
 ## List of packages:
 
-  * löve (love2d) 0.9.1 0.9.2
+  * löve (love2d) 0.9.1, 0.9.2, 0.10.1
   * sqlcipher *9999 (git)

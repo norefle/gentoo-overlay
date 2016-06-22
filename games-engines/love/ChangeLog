@@ -1,6 +1,9 @@
 # ChangeLog for games-engines/love
-# Copyright 1999-2014 Gentoo Foundation; Distributed under the GPL v2
+# Copyright 1999-2016 Gentoo Foundation; Distributed under the GPL v2
 # $Header$
+
+  22 Jun 2016; Dim L. Feiron <norefle@outlook.com> love-0.10.1.ebuild:
+  Bump version
 
   24 Feb 2015; Dim L. Feiron <norefle@outlook.com> love-0.9.2.ebuild:
   Bump version
